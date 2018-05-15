@@ -2,4 +2,4 @@
 
 SVG+JavaScript
 
-ссылка на демо https://flashws.github.io/gameTag/ 
+ссылка на демо https://flashws.github.io/gameSapper/ 
