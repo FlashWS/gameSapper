@@ -196,7 +196,6 @@ class Sapper {
     }
 
     this._drawGameField();
-
     return false;
   }
 
